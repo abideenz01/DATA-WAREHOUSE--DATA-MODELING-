@@ -1,4 +1,4 @@
-# data-warehouse+ Data Modeling 
+# Data-Warehouse+ Data Modeling 
 DATA WAREHOUSIN# Data Warehouse Projects
 
 This repository demonstrates a **star-schema data warehouse design** built using SQL.  
